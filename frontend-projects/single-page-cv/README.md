@@ -3,6 +3,8 @@
 ## Goal
 The goal of this project is to create a structured, single-page CV (Curriculum Vitae) using only HTML.
 
+[Single Page CV](https://roadmap.sh/projects/single-page-cv)
+
 ## Requirements
 
   - [x] **Semantic HTML:** Use appropriate HTML tags to structure your CV.
